@@ -6,7 +6,9 @@ Furthermore, I’m looking for new challenges, in a company that allows me to le
 
 Last but not least, I´m working on a proyect that consists in a e-commerce´s web app and its respective dashboard.
 
-Technologies & Tools
+Technologies & Tools:
 HTML | CSS | JavaScript | EJS | React | Node | Express | MySQL | Postman
 
-You can find me on Linkedin, https://www.linkedin.com/in/facundodavanzo/. And you can reach me by Email, facudavanzo@gmail.com
+You can find me on Linkedin, https://www.linkedin.com/in/facundodavanzo/
+
+And you can reach me by Email, facudavanzo@gmail.com
